@@ -10,12 +10,12 @@
            },
            "Filmpertutti": {
                "url": "https://filmpertutti.motorcycles",
-               "enabled": "0"
+               "enabled": "1"
            },
            "Tantifilm":{
                "url": "https://www.tanti.bond",
                "TF_ForwardProxy": "1",
-               "TF_PROXY": "0",
+               "TF_PROXY": "1",
                "enabled": "0"
            },
            "Mysterius":{
@@ -23,7 +23,7 @@
            },
           "LordChannel":{
                "url":"https://lordchannel.net",
-               "enabled":"0"
+               "enabled":"1"
           },
           "StreamingWatch":{
               "url":"https://www.streamingwatch.org",
@@ -31,7 +31,7 @@
           },
           "CB01":{
               "url":"https://cb01new.loan",
-              "CB_PROXY":"0",
+              "CB_PROXY":"1",
               "CB_ForwardProxy":"0",
               "MX_ForwardProxy":"0",
               "MX_PROXY":"0",
@@ -51,13 +51,13 @@
               "url":"https://guardaserietv.cc",
               "enabled":"1",
               "GS_ForwardProxy":"0",
-              "GS_PROXY":"0"
+              "GS_PROXY":"1"
           },
           "GuardaHD":{
               "url":"https://mostraguarda.stream",
               "enabled":"1",
               "GH_ForwardProxy":"0",
-              "GH_PROXY":"0"
+              "GH_PROXY":"1"
           },
           "Onlineserietv":{
               "domain":"com",
@@ -69,13 +69,13 @@
             "url": "https://eurostreaming.garden",
             "enabled": "1",
             "ES_ForwardProxy": "0",
-            "ES_PROXY": "0"
+            "ES_PROXY": "1"
         },  
           "AnimeWorld":{
               "url":"https://www.animeworld.so",
               "enabled":"1",
               "AW_ForwardProxy":"0",
-              "AW_PROXY":"0"
+              "AW_PROXY":"1"
           },
           "SkyStreaming":{
               "url":"https://skystreaming.watch",
@@ -93,7 +93,7 @@
        "Name": "MammaMia",
        "Icon": "🍕️",
        "Public_Instance": "0",
-       "Remote_Instance": "0",
+       "Remote_Instance": "1",
        "Global_Proxy": "0"
        }
   }
